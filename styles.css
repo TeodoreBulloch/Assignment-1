@@ -1,1 +1,14 @@
-
+body {
+  background-color: #1F2833;
+}
+header {
+  background-color: #800080;
+  padding: 15px;
+  text-align: center;
+  font-size: 35px;
+}
+p, h1, h2    {
+  color: white;
+      font-family: verdana;
+  }
+  
