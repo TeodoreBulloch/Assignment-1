@@ -40,6 +40,7 @@ table {
 #grad1 {
    background: linear-gradient(#b85789, #b84480);
    margin-bottom: 0px;
+   padding-bottom: none;
 }
 #footnote {
   background: linear-gradient(#b85789, #b84480);
@@ -62,8 +63,8 @@ table {
   padding: 14px 16px;
   text-decoration: none;
   background-color: #d6808a;
-  margin-left: .25vw;
-  margin-right: .25vw;
+  margin-left: .4vw;
+  margin-right: .4vw;
 }
 .topnav a:hover {
   background: linear-gradient(#a0d69a, #96d68d);
