@@ -40,7 +40,7 @@ table {
 #grad1 {
    background: linear-gradient(#b85789, #b84480);
    margin-bottom: 0px;
-   padding-bottom: none;
+   padding-bottom: 10px;
 }
 #footnote {
   background: linear-gradient(#b85789, #b84480);
