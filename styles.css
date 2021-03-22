@@ -12,8 +12,13 @@ header {
   margin-right: auto;
 }
 h1, h2, p, a    {
-  color: #f0c2a5;
   font-family: verdana;
+  }
+h2, p,   {
+  color: #f0ded3;
+}
+h1, a    {
+  color: white;
   }
 table {
   background-color: #f172a1;
