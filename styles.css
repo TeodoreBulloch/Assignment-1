@@ -18,10 +18,5 @@ p    {
   width:900px;
   margin: auto;
   }
-#grad1 {
-  height: 200px;
-  background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(red, yellow);
-}
 
 
