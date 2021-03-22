@@ -1,5 +1,6 @@
 body {
-  background-color: #140b2e;
+    background-image: linear-gradient(#aeeaf5, #4d9fdc);
+    height: 1000px;
 }
 header {
   background-color: #ad32d6;
@@ -17,5 +18,10 @@ p    {
   width:900px;
   margin: auto;
   }
+#grad1 {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(red, yellow);
+}
 
 
