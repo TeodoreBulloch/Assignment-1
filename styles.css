@@ -1,5 +1,5 @@
 body { 
-    background-image: linear-gradient(#A1C3D1, #747ADC);
+    background-image: linear-gradient(#D19A88, #C46A6A);
     height: 125vw;
 }
 header {
@@ -16,6 +16,7 @@ h1, h2, p    {
   font-family: verdana;
   }
 table {
+  background-color: #b39bc7;
   margin-left: auto;
   margin-right: auto;
   width:80%;
