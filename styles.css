@@ -3,7 +3,7 @@ body {
     height: 100%;
 }
 header {
-  background-color: #E64398;
+  background-color: #EDA58C;
   padding: 5px;
   text-align: center;
   font-size: 28px;
@@ -18,7 +18,7 @@ h1, p  {
   color: #f0ded3;
 }
 h2, a    {
-  color: white;
+  color: #5C4841;
  }
 table {
   background-color: #f172a1;
@@ -28,7 +28,7 @@ table {
   width:70%;
 }
 .naviga {
-  background-color: #b39bc7;
+  background-color: #C79B9B;
   padding: 10px;
   text-align: center;
   font-size: 20px;
