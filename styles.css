@@ -1,12 +1,12 @@
 body { 
     background-image: linear-gradient(#A1C3D1, #747ADC);
-    height: 1000px;
+    height: 200vw;
 }
 header {
   background-color: #E64398;
   padding: 5px;
   text-align: center;
-  font-size: 25px;
+  font-size: 20vw;
 }
 h1, h2, p    {
   color: white;
