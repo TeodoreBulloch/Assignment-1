@@ -14,8 +14,11 @@ header {
 h1, h2, p, a    {
   font-family: verdana;
 }
-h1, a, p  {
-  color: #f0ded3;
+a, p  {
+  color: #f0bfd3;
+}
+h1 {
+  color: #8C4B6C;
 }
 h2    {
   color: #422B23;
