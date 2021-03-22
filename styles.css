@@ -3,9 +3,9 @@ body {
 }
 header {
   background-color: #ad32d6;
-  padding: 15px;
+  padding: 10px;
   text-align: center;
-  font-size: 35px;
+  font-size: 25px;
 }
 h1, h2    {
   color: white;
