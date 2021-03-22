@@ -14,10 +14,10 @@ header {
 h1, h2, p, a    {
   font-family: verdana;
   }
-h2, p,   {
-  color: #f0ded3;
+h1, p,   {
+  color: #F0DED3;
 }
-h1, a    {
+h2, a    {
   color: white;
   }
 table {
