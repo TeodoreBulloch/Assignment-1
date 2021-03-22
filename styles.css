@@ -8,15 +8,9 @@ header {
   text-align: center;
   font-size: 25px;
 }
-h1, h2    {
+h1, h2, p    {
   color: white;
   font-family: verdana;
-  }
-p    {
-  color: white;
-  font-family: verdana;
-  width:1300px;
-  margin: auto;
   }
 table {
   margin-left: auto;
