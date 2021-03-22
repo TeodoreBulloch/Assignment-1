@@ -42,6 +42,15 @@ table {
    padding-right: 35px;
    padding-bottom: 35px;
 }
+#footnote {
+   background: linear-gradient(#b85789, #b84480);
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  width:70%;
+}
 .topnav {
   overflow: hidden;
   padding: 10px;
@@ -57,6 +66,7 @@ table {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  background-color: #d6808a;
 }
 .topnav a:hover {
   background: linear-gradient(#a0d69a, #96d68d);
