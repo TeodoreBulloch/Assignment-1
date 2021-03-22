@@ -11,13 +11,15 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
-h1, p,   {
-  color: #f0ded3;
+}
+h1, h2, p, a    {
   font-family: verdana;
+  }
+h1, p  {
+  color: #f0ded3;
 }
 h2, a    {
   color: white;
-  font-family: verdana;
  }
 table {
   background-color: #f172a1;
