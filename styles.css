@@ -1,5 +1,5 @@
 body {
-  background-color: #2f2041;
+  background-color: #140b2e;
 }
 header {
   background-color: #800080;
@@ -12,10 +12,10 @@ h1, h2    {
   font-family: verdana;
   }
 p    {
-  color: red;
+  color: white;
   font-family: verdana;
-  margin-right: 700px;
-  margin-left: 700px;
+  margin-right: 300px;
+  margin-left: 300px;
   }
 
 
