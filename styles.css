@@ -3,7 +3,7 @@ body {
     height: 100%;
 }
 header {
-  background-color: #FFA584;
+  background-color: linear-gradient(#FFA584, #DB8365);
   padding: 5px;
   text-align: center;
   font-size: 28px;
@@ -21,7 +21,7 @@ h2,    {
   color: #5C4841;
  }
 table {
-  background-color: #f172a1;
+  background-color: linear-gradient(#f172a1, #CF5380);
   margin-left: auto;
   margin-right: auto;
   padding: 25px;
