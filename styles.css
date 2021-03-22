@@ -11,20 +11,19 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
-h1, h2, p, a    {
-  font-family: verdana;
-  }
 h1, p,   {
-  color: #F0DED3;
+  color: #f0ded3;
+  font-family: verdana;
 }
 h2, a    {
   color: white;
-  }
+  font-family: verdana;
+ }
 table {
   background-color: #f172a1;
   margin-left: auto;
   margin-right: auto;
-  padding: 10px;
+  padding: 25px;
   width:70%;
 }
 .naviga {
