@@ -50,20 +50,20 @@ table {
    background: linear-gradient(#b85789, #b84480);
    padding-bottom: 35px;
 }
-/* Style the top navigation bar */
+
 .topnav {
   overflow: hidden;
+  padding: 10px;
   margin-left: auto;
   margin-right: auto;
   width:62%;
   margin-bottom:0.25vw;
   background: linear-gradient(#d19a88, #d6808a);
 }
-/* Style the topnav links */
+
 .topnav a {
-  float: left;
+  float: center;
   display: block;
-  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -71,6 +71,6 @@ table {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #a0d69a;
   color: black;
 }
