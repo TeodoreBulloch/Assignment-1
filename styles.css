@@ -7,11 +7,13 @@ header {
   text-align: center;
   font-size: 35px;
 }
-p, h1, h2    {
+h1, h2    {
   color: white;
   font-family: verdana;
   }
 p    {
+  color: white;
+  font-family: verdana;
   margin-right: 1500px;
   margin-left: 1500px;
   }
