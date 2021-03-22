@@ -1,5 +1,5 @@
 body { 
-  background-image: linear-gradient(#e2bfb4, #daa1a1);
+  background-image: linear-gradient(#e2bfb4, #c46a6a);
   height: 100%;
 }
 header {
@@ -58,7 +58,7 @@ table {
   margin-left: auto;
   margin-right: auto;
   width:62%;
-  margin-bottom:0.25vw;
+  margin-top:0.25vw;
   background: linear-gradient(#d19a88, #d6808a);
 }
 .topnav a {
