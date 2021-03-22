@@ -1,6 +1,6 @@
 body { 
-    background-image: linear-gradient(to bottom right,#D19A88, #C46A6A);
-    height: 100%;
+  background-image: linear-gradient(#D19A88, #C46A6A);
+  height: 100%;
 }
 header {
   background: linear-gradient(#FFA584, #DB8365);
