@@ -3,7 +3,7 @@ body {
   height: 100%;
 }
 header {
-  background: linear-gradient(#FFA584, #DB8365);
+  background: linear-gradient(#ffa5b0, #DB8365);
   padding: 5px;
   text-align: center;
   font-size: 28px;
@@ -44,5 +44,4 @@ table {
 }
 #grad1 {
    background: linear-gradient(#b85789, #b84480)
-   padding: 25px;
 }
