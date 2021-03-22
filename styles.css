@@ -10,7 +10,7 @@ header {
   width: 65%;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom:1vw;
+  margin-bottom:.25vw;
 }
 h1, h2, p, a    {
   font-family: verdana;
@@ -31,7 +31,9 @@ table {
   background: linear-gradient(#f172a1, #CF5380);
   margin-left: auto;
   margin-right: auto;
-  padding: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
   width:70%;
 }
 .naviga {
