@@ -47,5 +47,6 @@ table {
   margin-bottom:0.25vw;
 }
 #grad1 {
-   background: linear-gradient(#b85789, #b84480)
+   background: linear-gradient(#b85789, #b84480);
+   padding-bottom: 35px;
 }
