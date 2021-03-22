@@ -10,6 +10,7 @@ header {
   width: 65%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom:10vw;
 }
 h1, h2, p, a    {
   font-family: verdana;
@@ -41,6 +42,7 @@ table {
   margin-left: auto;
   margin-right: auto;
   width:62%;
+  margin-bottom:2vw;
 }
 #grad1 {
    background: linear-gradient(#b85789, #b84480)
