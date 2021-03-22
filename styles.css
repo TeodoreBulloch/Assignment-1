@@ -71,6 +71,6 @@ table {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: #a0d69a;
+  background: linear-gradient(#a0d69a, #96d68d);
   color: black;
 }
