@@ -18,7 +18,7 @@ h1, a, p  {
   color: #f0ded3;
 }
 h2,    {
-  color: #5C4841;
+  color: #422B23;
  }
 table {
   background: linear-gradient(#f172a1, #CF5380);
@@ -28,7 +28,7 @@ table {
   width:70%;
 }
 .naviga {
-  background-color: #C79B9B;
+  background: linear-gradient(#CC9F9F, #C78181);
   padding: 10px;
   text-align: center;
   font-size: 20px;
