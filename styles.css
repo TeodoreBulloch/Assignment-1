@@ -3,7 +3,7 @@ body {
     height: 100%;
 }
 header {
-  background-color: #EDA58C;
+  background-color: #FFA584;
   padding: 5px;
   text-align: center;
   font-size: 28px;
@@ -14,10 +14,10 @@ header {
 h1, h2, p, a    {
   font-family: verdana;
 }
-h1, p  {
+h1, a, p  {
   color: #f0ded3;
 }
-h2, a    {
+h2,    {
   color: #5C4841;
  }
 table {
