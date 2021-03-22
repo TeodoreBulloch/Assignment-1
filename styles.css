@@ -1,5 +1,5 @@
 body { 
-    background-image: linear-gradient(#D19A88, #C46A6A);
+    background-image: linear-gradient(to bottom right,#D19A88, #C46A6A);
     height: 100%;
 }
 header {
@@ -28,7 +28,7 @@ table {
   width:70%;
 }
 .naviga {
-  background: linear-gradient(#C79B9B, #C78181);
+  background: linear-gradient(#C79B9B, #C78F8F);
   padding: 10px;
   text-align: center;
   font-size: 20px;
