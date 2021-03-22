@@ -10,8 +10,10 @@ header {
 p, h1, h2    {
   color: white;
   font-family: verdana;
-  margin-right: 150px;
-  margin-left: 80px;
-  
   }
-  
+p    {
+  margin-right: 1500px;
+  margin-left: 1500px;
+  }
+
+
