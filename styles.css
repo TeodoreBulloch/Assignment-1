@@ -1,13 +1,7 @@
+<!-- Backgrounds and Text -->
 body { 
   background-image: linear-gradient(#e2bfb4, #daa1a1);
   height: 100%;
-}
-#heade {
-  background: linear-gradient(#ffa5b0, #DB8365);
-  padding: 15px;
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
 }
 h1, h2, p, a    {
   font-family: verdana;
@@ -20,10 +14,12 @@ p  {
 }
 h1 {
   color: #753754;
+  font-size: 10vw;
 }
 h2    {
     color: #422B23;
  }
+<!-- Table Design -->
 table {
   background: linear-gradient(#f172a1, #CF5380);
   margin-left: auto;
@@ -32,6 +28,13 @@ table {
   padding-left: 25px;
   padding-right: 25px;
   width:70%;
+}
+#heade {
+  background: linear-gradient(#ffa5b0, #DB8365);
+  padding: 15px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
 }
 #grad1 {
    background: linear-gradient(#b85789, #b84480);
@@ -43,6 +46,7 @@ table {
   padding-top: 35px;
   width:70%;
 }
+<!-- Button work -->
 .topnav {
   overflow: hidden;
   padding: 10px;
