@@ -2,7 +2,7 @@ body {
   background-image: linear-gradient(#e2bfb4, #daa1a1);
   height: 100%;
 }
-h1, h2, p, a    {
+h1, h2, p, a, b    {
   font-family: verdana;
 }
 a  {
@@ -19,12 +19,11 @@ h2    {
   font-size: 2vw;
   line-height: 0.7;
  }
+b{
+  color: #422B23;
+}
 #yellow{
   color: #f0e4da;
-}
-#brown{
-  color: #422B23;
-  line-height: 0.7;
 }
 table {
   background: linear-gradient(#f172a1, #CF5380);
