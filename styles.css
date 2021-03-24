@@ -22,6 +22,10 @@ h2    {
 #yellow{
   color: #f0e4da;
 }
+#brown{
+  color: #422B23;
+  line-height: 0.7;
+}
 table {
   background: linear-gradient(#f172a1, #CF5380);
   margin-left: auto;
