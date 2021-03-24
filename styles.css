@@ -19,6 +19,9 @@ h2    {
   font-size: 2vw;
   line-height: 0.7;
  }
+#yellow{
+  color: #f0e4da;
+}
 table {
   background: linear-gradient(#f172a1, #CF5380);
   margin-left: auto;
