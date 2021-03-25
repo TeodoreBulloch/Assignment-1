@@ -69,7 +69,7 @@ table {
   padding: 15px;
   margin-left: auto;
   margin-right: auto;
-  width:70%;
+  width:68%;
   background-color: #5ad45a;
 }
 .topnav a {
@@ -78,6 +78,7 @@ table {
   text-align: center;
   text-decoration: none;
   background-color: #5ad45a;
+  padding: 14px 16px;
 }
 .topnav a:hover {
   background-color: #8feb8f;
