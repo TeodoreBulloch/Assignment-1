@@ -3,7 +3,7 @@ body {
   background-image: url("Images/Green-black.png");
   background-repeat: no-repeat;
   background-position: bottom;
-  margin-bottom: 200px;
+  background-size: 100%;
   background-attachment: fixed;
 }
 img {
