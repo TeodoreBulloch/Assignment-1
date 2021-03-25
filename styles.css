@@ -18,19 +18,19 @@ h1 {
   color: #f15a24;
 }
 h2    {
-   color: #ffffff;
+  color: #ffffff;
   font-size: 2vw;
   line-height: 0.7;
  }
 b{
-  color: #422B23;
+  color: #ffffff;
 }
 #yellow{
   color: #f0e4da;
   font-size: 12px;
 }
 table {
-  background-color: #a5a5b3;
+  background: #a5a5b3;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 25px;
