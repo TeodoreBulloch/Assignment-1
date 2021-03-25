@@ -15,7 +15,7 @@ img {
   border: 7.5px solid #5AD45A;
 }
 h1, h2, p, a, b    {
-  font-family: verdana;
+   font-family: myFirstFont;
 }
 a  {
   color: #CCCCCC;
