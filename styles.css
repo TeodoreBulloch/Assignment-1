@@ -2,6 +2,9 @@ body {
   background-image: linear-gradient(#e2bfb4, #daa1a1);
   height: 100%;
 }
+img {
+  border: 5px solid #555;
+}
 h1, h2, p, a, b    {
   font-family: verdana;
 }
