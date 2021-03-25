@@ -6,6 +6,11 @@ body {
   background-size: 100%;
   background-attachment: fixed;
 }
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+
 img {
   border: 7.5px solid #5AD45A;
 }
