@@ -74,3 +74,6 @@ table {
   background: linear-gradient(#e2bfb4, #daa1a1);
   color: #422B23;
 }
+html {
+  overflow-y: scroll;
+}
