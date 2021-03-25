@@ -27,7 +27,7 @@ b{
   font-size: 12px;
 }
 table {
-  background: none;
+  background: linear-gradient(#f1c6d5, #f1b7cb);
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 25px;
@@ -36,7 +36,7 @@ table {
   width:70%;
 }
 #heade {
-  background: linear-gradient(#ffa5b0, #DB8365);
+  background: none;
   padding: 15px;
   width: 70%;
   margin-left: auto;
