@@ -18,7 +18,7 @@ h1 {
   color: #f15a24;
 }
 h2    {
-    color: #ffffff;
+   color: #ffffff;
   font-size: 2vw;
   line-height: 0.7;
  }
@@ -39,7 +39,7 @@ table {
   width:70%;
 }
 #heade {
-  background-color: #000000;
+  background-color: none;
   padding: 15px;
   width: 70%;
   margin-left: auto;
