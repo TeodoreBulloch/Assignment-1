@@ -10,7 +10,11 @@ body {
   font-family: Poppins-Light;
   src: url(font/Poppins-Light.ttf);
 }
-
+@font-face {
+  font-family: Poppins-Light;
+  src: url(font/Poppins-SemiBold.ttf);
+  font-weight: bold;
+}
 img {
   border: 7.5px solid #5AD45A;
 }
