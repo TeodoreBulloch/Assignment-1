@@ -7,15 +7,15 @@ body {
   background-attachment: fixed;
 }
 @font-face {
-  font-family: myFirstFont;
-  src: url(sansation_light.woff);
+  font-family: Poppins-Light;
+  src: url(font/Poppins-Light.ttf);
 }
 
 img {
   border: 7.5px solid #5AD45A;
 }
 h1, h2, p, a, b    {
-   font-family: myFirstFont;
+   font-family: Poppins-Light;
 }
 a  {
   color: #CCCCCC;
