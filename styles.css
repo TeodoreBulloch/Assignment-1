@@ -75,7 +75,7 @@ table {
   margin-right: auto;
   width:68%;
   background-color: #5ad45a;
-    font-weight: bold;
+  font-weight: bold;
 }
 .topnav a {
   float: left;
@@ -84,12 +84,11 @@ table {
   text-decoration: none;
   background-color: #5ad45a;
   padding: 14px 16px;
-    font-weight: bold;
+  font-weight: bold;
 }
 .topnav a:hover {
   background-color: #8feb8f;
   color: #FFFFFF;
-    font-weight: bold;
 }
 html {
   overflow-y: scroll;
