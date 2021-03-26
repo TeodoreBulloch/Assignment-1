@@ -99,5 +99,5 @@ html {
   z-index: 1;
   display: block;
   float: left;
-  bottom: -0.2px;
+  top: 10px;
 }
