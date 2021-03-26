@@ -94,10 +94,10 @@ html {
   overflow-y: scroll;
 }
 .dropdown-content {
-  position: relative;
+  position: absolute;
   background-color: #none;
   z-index: 1;
   display: block;
   float: left;
-  top: 10px;
+  top: 100px;
 }
