@@ -96,7 +96,7 @@ html {
 .dropdown-content {
   display: none;
   position: relative;
-  bottom: -30px;
+  bottom: -300px;
   background-color: #none;
   z-index: 1;
   display: block;
