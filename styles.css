@@ -94,7 +94,7 @@ html {
   overflow-y: scroll;
 }
 .dropdown-content {
-  position: absolute;
+  position: relative;
   background-color: #none;
   z-index: 1;
   display: block;
