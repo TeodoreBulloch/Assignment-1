@@ -22,22 +22,10 @@ h1, h2, p, a, b    {
    font-family: Poppins-Light;
 }
 a  {
-  color: #CCCCCC;
-}
-a:link {
-  color: #CCCCCC;
-}
-a:visited {
-  color: white;
-}
-a:hover {
-  color: #CCCCCC;
-}
-a:active {
-  color: #CCCCCC;
+  color #333333;
 }
 p  {
-  color: #CCCCCC;
+  color #333333;
 }
 h1 {
   color: #E6E6E6;
