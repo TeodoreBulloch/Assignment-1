@@ -22,19 +22,19 @@ h1, h2, p, a, b    {
    font-family: Poppins-Light;
 }
 a  {
-  color: #333333;
+  color: #CCCCCC;
 }
 a:link {
-  color: #333333;
+  color: #CCCCCC;
 }
 a:visited {
   color: white;
 }
 a:hover {
-  color: #333333;
+  color: #CCCCCC;
 }
 a:active {
-  color: #333333;
+  color: #CCCCCC;
 }
 p  {
   color: #CCCCCC;
